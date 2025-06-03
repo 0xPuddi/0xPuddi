@@ -24,8 +24,8 @@
 </div>
 
 
-## $\textsf{\color{Orange}\textbf{Tech}}$
-### $\textsf{\color{Orange}{Frontend}}$
+## $\textsf{Technologies}$
+### $\textsf{Frontend}$
 <p float="left">
   <img src="./assets/Logos/html5-original.svg" height="48px">
   <img src="./assets/Logos/css3-original.svg" height="48px">
@@ -67,7 +67,7 @@
   <img src="./assets/Logos/wordpress-original.svg" height="48px">
 </p>
 
-### $\textsf{\color{Orange}{Backend}}$
+### $\textsf{Backend}$
 <p float="left">
   <picture>
     <source
@@ -94,7 +94,7 @@
   <img src="./assets/Logos/c-original.svg" height="48px">
 </p>
 
-### $\textsf{\color{Orange}{DevOps}}$
+### $\textsf{DevOps}$
 <p float="left">
   <img src="./assets/Logos/docker-original.svg" height="48px">
   <img src="./assets/Logos/git-plain.svg" height="48px">
@@ -133,14 +133,14 @@
   <img src="./assets/Logos/linux-original.svg" height="48px">
 </p>
 
-### $\textsf{\color{Orange}{Libararies}}$
+### $\textsf{Libararies}$
 <p float="left">
   <img src="./assets/Logos/hardhat-original.svg" height="48px">
   <img src="./assets/Logos/jest-plain.svg" height="48px">
   <img src="./assets/Logos/foundry-original.png" height="48px">
 </p>
 
-### $\textsf{\color{Orange}{Sometimes}}$
+### $\textsf{Sometimes}$
 <p float="left">
   <img src="./assets/Logos/bevy-original.svg" height="48px">
   <img src="./assets/Logos/electron-original.svg" height="48px">
