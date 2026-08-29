@@ -1,4 +1,4 @@
 
 <div  align="center">
-    <p>Keep clicking</p>
+    <p>keep clicking</p>
 </div>
